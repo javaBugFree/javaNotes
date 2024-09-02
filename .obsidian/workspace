@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "7d1dff07bd07d2e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea2f706f215b8a67",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JavaSE 中常用，通用的一些知识.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1fec3dd89360df0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0806e2c5de6a9f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "272c066d815cabb4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "33dbba5bd3f49877",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#notetalking",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "25913fea0f407902",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252
+  },
+  "right": {
+    "id": "ecbab1f729686e6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "210efa91f69d259a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "901c75666fd59562",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JavaSE 中常用，通用的一些知识.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "651e01009e5c35cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JavaSE 中常用，通用的一些知识.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8858094302ced85f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e348d5cc81cc83aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JavaSE 中常用，通用的一些知识.md"
+              }
+            }
+          },
+          {
+            "id": "9012cbe358798b34",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "564a9c1ac4a68134",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ea2f706f215b8a67",
+  "lastOpenFiles": [
+    "项目：学生管理系统/学生管理系统升级版的需求文档.md",
+    "jsd2209/day01.md",
+    "JavaSE 中常用，通用的一些知识.md",
+    "项目：学生管理系统/2.注册业务分析.png",
+    "jsd2209/ooDay01.md",
+    "项目：学生管理系统/3.登录业务分析.png",
+    "项目：学生管理系统/1.登录注册业务分析.png",
+    "项目：学生管理系统/学生管理系统的需求文档.md",
+    "项目：学生管理系统/添加学生对象图解.png",
+    "项目：学生管理系统/4.修改密码业务分析.png"
+  ]
+}

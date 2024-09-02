@@ -1,0 +1,10 @@
+{
+  "theme": "system",
+  "translucency": false,
+  "cssTheme": "Blue Topaz",
+  "accentColor": "",
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "baseFontSize": 18,
+  "baseFontSizeAction": false
+}

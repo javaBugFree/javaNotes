@@ -1,0 +1,15 @@
+{
+  "promptDelete": false,
+  "strictLineBreaks": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "fileSortOrder": "alphabetical",
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "attachmentFolderPath": "JavaWeb/VueCli（脚手架）/项目：csmall-web-client/做一个页面的流程/2 阶段"
+}
