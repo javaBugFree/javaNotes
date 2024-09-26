@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SpringBoot框架/SpringBoot项目.md",
+                "file": "Spring框架/springdata-jpa：面向对象的数据库持久化方式.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "REST",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringBoot框架/SpringBoot项目.md",
+                "file": "Spring框架/springdata-jpa：面向对象的数据库持久化方式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringBoot框架/SpringBoot项目.md",
+                "file": "Spring框架/springdata-jpa：面向对象的数据库持久化方式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringBoot框架/SpringBoot项目.md"
+                "file": "Spring框架/springdata-jpa：面向对象的数据库持久化方式.md"
               }
             }
           },
@@ -191,33 +191,36 @@
   },
   "active": "4d80972386a96b8d",
   "lastOpenFiles": [
+    "Spring框架/Spring AOP.md",
+    "Spring框架/springdata-jpa：面向对象的数据库持久化方式.md",
+    "Spring MVC框架/REST（RESTful）.md",
+    "SpringBoot框架/创建项目 1.md",
+    "SpringBoot框架/配置Maven.md",
+    "Spring框架/创建项目.md",
+    "SpringBoot框架/4. 检查连接数据库的配置是否正确.md",
+    "SpringBoot框架/3. YAML配置.md",
+    "SpringBoot框架/2. Profile配置.md",
+    "SpringBoot框架/1. 关于springboot的配置文件.md",
+    "SpringBoot框架/MySQL和alibba连接池依赖.md",
+    "SpringBoot框架/SpringBoot项目.md",
     "SpringBoot框架/前后端分离.md",
     "SpringBoot框架/核心价值.md",
-    "SpringBoot框架/SpringBoot项目.md",
-    "SpringBoot框架/Knowledge/客户端发出请求的三种方式.md",
-    "SpringBoot框架/Knowledge/服务端响应的List类型 如何转成 客户端里的数组.md",
     "SpringBoot框架/Knowledge/404错误码.md",
-    "微服务（Spring Cloud）/6. csmall 微服务项目/4. 创建通用模块 commons.md",
+    "SpringBoot框架/Knowledge/服务端响应的List类型 如何转成 客户端里的数组.md",
+    "SpringBoot框架/Knowledge/客户端发出请求的三种方式.md",
+    "SpringBoot框架/Knowledge/什么是服务器.md",
+    "SpringBoot框架/Knowledge/同步请求 和 异步请求(Axios框架).md",
+    "SpringBoot框架/Knowledge/文件上传.md",
+    "SpringBoot框架/Knowledge/相对路径和绝对路径.md",
+    "SpringBoot框架/Knowledge/注解 @.md",
+    "SpringBoot框架/Knowledge/Controller接收参数的三种方式.md",
+    "SpringBoot框架/在工程里面需要用到数据库相关的内容时.md",
+    "SpringBoot框架/JSON.md",
+    "数据库/SQL语句的编写规范.md",
+    "SpringBoot框架/Tomcat与SpringMVC示意.png",
+    "数据库/img/关联查询1：连接条件.png",
+    "数据库/img/存储数据的方式.png",
     "LICENSE",
-    "README.md",
-    "微服务（Spring Cloud）/6. csmall 微服务项目/3. 加载正式项目的pom文件.md",
-    "微服务（Spring Cloud）/6. csmall 微服务项目/2. 父项目管理依赖版本（锁版本）.md",
-    "微服务（Spring Cloud）/6. csmall 微服务项目/1. 创建csmall项目.md",
-    "数据库/SQL字段 与 数据类型对应关系.md",
-    "数据库/约束条件.md",
-    "数据库/数据库基本概念.md",
-    "数据库/如何设计数据表.md",
-    "数据库/基于Spring JDBC框架的事物管理.md",
-    "Spring框架/密码加密.md",
-    "面试/01-面试必会-JAVA基础篇.md",
-    "面试/02-面试必会-SSM框架篇.md",
-    "通用/Java 23种设计模式.md",
-    "通用/JAVA常见异常.md",
-    "通用/IDEA常用快捷键.md",
-    "通用/CMD命令.md",
-    "通用/自定义模板代码.md",
-    "通用/通配符.md",
-    "通用/浏览器缓存问题.md",
     "通用/img/自定义模板代码1.png",
     "JavaSE/Knowledge/imgs/Java8的内存结构.png",
     "Pasted image 20240807160034.png",
@@ -230,10 +233,7 @@
     "各阶段知识点/JSD2022第4阶段SSM框架知识点-思维导图.png",
     "JavaSE/Knowledge/imgs/成员内部类.png",
     "JavaSE/Knowledge/imgs/二维数组：特殊情况二.png",
-    "JavaSE/Knowledge/imgs/二维数组：特殊情况一.png",
-    "JavaSE/Knowledge/imgs/二维数组内存图.png",
     "0作业",
-    "JavaSE/Knowledge/imgs/2.2 JRE.png",
     "JavaSE/Knowledge/imgs",
     "面试/assets/20171001102830565",
     "面试/imgs/未命名",
