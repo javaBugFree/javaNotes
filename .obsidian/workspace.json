@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "微服务（Spring Cloud）/6. csmall 微服务项目/4. 创建通用模块 commons.md",
+                "file": "SpringBoot框架/SpringBoot项目.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "right": {
     "id": "ecbab1f729686e6b",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "微服务（Spring Cloud）/6. csmall 微服务项目/4. 创建通用模块 commons.md",
+                "file": "SpringBoot框架/SpringBoot项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "微服务（Spring Cloud）/6. csmall 微服务项目/4. 创建通用模块 commons.md",
+                "file": "SpringBoot框架/SpringBoot项目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "微服务（Spring Cloud）/6. csmall 微服务项目/4. 创建通用模块 commons.md"
+                "file": "SpringBoot框架/SpringBoot项目.md"
               }
             }
           },
@@ -190,6 +191,13 @@
   },
   "active": "4d80972386a96b8d",
   "lastOpenFiles": [
+    "SpringBoot框架/前后端分离.md",
+    "SpringBoot框架/核心价值.md",
+    "SpringBoot框架/SpringBoot项目.md",
+    "SpringBoot框架/Knowledge/客户端发出请求的三种方式.md",
+    "SpringBoot框架/Knowledge/服务端响应的List类型 如何转成 客户端里的数组.md",
+    "SpringBoot框架/Knowledge/404错误码.md",
+    "微服务（Spring Cloud）/6. csmall 微服务项目/4. 创建通用模块 commons.md",
     "LICENSE",
     "README.md",
     "微服务（Spring Cloud）/6. csmall 微服务项目/3. 加载正式项目的pom文件.md",
@@ -211,12 +219,6 @@
     "通用/通配符.md",
     "通用/浏览器缓存问题.md",
     "通用/img/自定义模板代码1.png",
-    "虚拟机/4. Docker基础命令.md",
-    "虚拟机/3. 安装 运行 Docker.md",
-    "虚拟机/2. Docker概述.md",
-    "虚拟机/0.3 虚拟机命令参考.md",
-    "微服务（Spring Cloud）/6. csmall 微服务项目/11. duboo实现微服务调用.md",
-    "JavaSE/Knowledge/接口.md",
     "JavaSE/Knowledge/imgs/Java8的内存结构.png",
     "Pasted image 20240807160034.png",
     "未命名 1",
